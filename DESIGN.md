@@ -27,13 +27,9 @@ They should feel:
 - intentional
 - slightly rounded rather than excessively pill-shaped
 
-The provided visual reference image represents the desired general physical feel and proportions.
+The capsule reference in `docs/references/capsule-reference.svg` is an original Project P design reference distilled from the visual direction discussed for the project. It is intended to communicate proportions, compactness, floating presence and surface treatment.
 
-Reference:
-
-`docs/references/capsule-reference.png`
-
-The reference is inspiration only. Do not copy its branding, exact UI or implementation.
+The user's original visual reference is a separate inspiration source. Do not copy its branding, exact UI or implementation.
 
 ## 2. Bar composition
 
